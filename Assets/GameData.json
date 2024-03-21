@@ -1,0 +1,39 @@
+{
+    "playerdata": {
+        "playerposition": {
+            "x": -37.89777374267578,
+            "y": 70.7612075805664,
+            "z": 0.0
+        },
+        "level": 1,
+        "ATK": 10,
+        "DEF": 10,
+        "currentHP": 10,
+        "maxHP": 20,
+        "currentMP": 20,
+        "maxMP": 20,
+        "currentEXP": 15,
+        "maxEXP": 50,
+        "Gold": 24,
+        "isvillage": true,
+        "isruin": false,
+        "isbossroom": false
+    },
+    "equipmentdata": {
+        "usesword": false,
+        "useshield": false,
+        "usearmor": false,
+        "usemagic": false,
+        "useaccessory": false,
+        "havesword0": false,
+        "havesword1": false,
+        "havesword2": false,
+        "haveshield0": false,
+        "haveshield1": false,
+        "havearmor0": false,
+        "havearmor1": false,
+        "havearmor2": false,
+        "havemagic0": false,
+        "haveaccessory2": false
+    }
+}

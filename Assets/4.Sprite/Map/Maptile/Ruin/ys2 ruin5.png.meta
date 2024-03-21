@@ -1,0 +1,4452 @@
+fileFormatVersion: 2
+guid: 03b2138d811d6a94ebd38cd8f6ca226a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2368260073398990847
+    second: ys2 ruin5_0
+  - first:
+      213: -2048445639823781939
+    second: ys2 ruin5_1
+  - first:
+      213: -4231694528396026479
+    second: ys2 ruin5_2
+  - first:
+      213: 4779444188955749231
+    second: ys2 ruin5_3
+  - first:
+      213: 8353560806401846583
+    second: ys2 ruin5_4
+  - first:
+      213: 2828784137950493438
+    second: ys2 ruin5_5
+  - first:
+      213: -7931466142864289288
+    second: ys2 ruin5_6
+  - first:
+      213: -5887850998378410634
+    second: ys2 ruin5_7
+  - first:
+      213: 8410887091084915926
+    second: ys2 ruin5_8
+  - first:
+      213: -8495445273199733311
+    second: ys2 ruin5_9
+  - first:
+      213: 1554917208783152621
+    second: ys2 ruin5_10
+  - first:
+      213: 1524634426949912751
+    second: ys2 ruin5_11
+  - first:
+      213: 2351408519044272923
+    second: ys2 ruin5_12
+  - first:
+      213: 5573920902689302973
+    second: ys2 ruin5_13
+  - first:
+      213: 6331007477473496254
+    second: ys2 ruin5_14
+  - first:
+      213: 3684519577840222795
+    second: ys2 ruin5_15
+  - first:
+      213: -7271676482589868078
+    second: ys2 ruin5_16
+  - first:
+      213: -3843619549877928421
+    second: ys2 ruin5_17
+  - first:
+      213: -8331673892207912290
+    second: ys2 ruin5_18
+  - first:
+      213: 4689771953897108541
+    second: ys2 ruin5_19
+  - first:
+      213: 4572856040927920622
+    second: ys2 ruin5_20
+  - first:
+      213: -355824481908663096
+    second: ys2 ruin5_21
+  - first:
+      213: -6586505860128421163
+    second: ys2 ruin5_22
+  - first:
+      213: -8893600216117568695
+    second: ys2 ruin5_23
+  - first:
+      213: -3475967033850471817
+    second: ys2 ruin5_24
+  - first:
+      213: 8013196123379590145
+    second: ys2 ruin5_25
+  - first:
+      213: -1619636852837599991
+    second: ys2 ruin5_26
+  - first:
+      213: 8355937839402250110
+    second: ys2 ruin5_27
+  - first:
+      213: -8166576045004002491
+    second: ys2 ruin5_28
+  - first:
+      213: 1841270484319865799
+    second: ys2 ruin5_29
+  - first:
+      213: -5549506777402954923
+    second: ys2 ruin5_30
+  - first:
+      213: 5992491537202465630
+    second: ys2 ruin5_31
+  - first:
+      213: -6444317601917234403
+    second: ys2 ruin5_32
+  - first:
+      213: 7652805294467074919
+    second: ys2 ruin5_33
+  - first:
+      213: -7885946589790316939
+    second: ys2 ruin5_34
+  - first:
+      213: 9062004378525617173
+    second: ys2 ruin5_35
+  - first:
+      213: 6582759203170822595
+    second: ys2 ruin5_36
+  - first:
+      213: 2453833485405151177
+    second: ys2 ruin5_37
+  - first:
+      213: -3286940249381357213
+    second: ys2 ruin5_38
+  - first:
+      213: 5400411578835343184
+    second: ys2 ruin5_39
+  - first:
+      213: -4514212131366888652
+    second: ys2 ruin5_40
+  - first:
+      213: -5632413917457611888
+    second: ys2 ruin5_41
+  - first:
+      213: -5895386693941572124
+    second: ys2 ruin5_42
+  - first:
+      213: 5833072287404961056
+    second: ys2 ruin5_43
+  - first:
+      213: -1781507197314339386
+    second: ys2 ruin5_44
+  - first:
+      213: 161071132103198329
+    second: ys2 ruin5_45
+  - first:
+      213: -5036931099967426753
+    second: ys2 ruin5_46
+  - first:
+      213: -1645712940477739268
+    second: ys2 ruin5_47
+  - first:
+      213: 3127035720259413496
+    second: ys2 ruin5_48
+  - first:
+      213: -7715363356028414457
+    second: ys2 ruin5_49
+  - first:
+      213: 8041568382761620148
+    second: ys2 ruin5_50
+  - first:
+      213: 320311667591117907
+    second: ys2 ruin5_51
+  - first:
+      213: -8001671082101088578
+    second: ys2 ruin5_52
+  - first:
+      213: -7285921473375170346
+    second: ys2 ruin5_53
+  - first:
+      213: -7642230033895478142
+    second: ys2 ruin5_54
+  - first:
+      213: 2709211049216357144
+    second: ys2 ruin5_55
+  - first:
+      213: -1749043001113409799
+    second: ys2 ruin5_56
+  - first:
+      213: -2788881474810805033
+    second: ys2 ruin5_57
+  - first:
+      213: 1788367324740209909
+    second: ys2 ruin5_58
+  - first:
+      213: -519921828509876917
+    second: ys2 ruin5_59
+  - first:
+      213: 5637400301752699946
+    second: ys2 ruin5_60
+  - first:
+      213: 7017728744766427301
+    second: ys2 ruin5_61
+  - first:
+      213: -8322483776036541547
+    second: ys2 ruin5_62
+  - first:
+      213: 2453477551682474221
+    second: ys2 ruin5_63
+  - first:
+      213: -8367146805860033293
+    second: ys2 ruin5_64
+  - first:
+      213: 1865647922712124664
+    second: ys2 ruin5_65
+  - first:
+      213: 6327391562259007856
+    second: ys2 ruin5_66
+  - first:
+      213: -5260468673076844329
+    second: ys2 ruin5_67
+  - first:
+      213: -1564105421308713384
+    second: ys2 ruin5_68
+  - first:
+      213: -2629632595931450168
+    second: ys2 ruin5_69
+  - first:
+      213: 1223471408790974598
+    second: ys2 ruin5_70
+  - first:
+      213: -2688465559101054075
+    second: ys2 ruin5_71
+  - first:
+      213: -1063885785437061351
+    second: ys2 ruin5_72
+  - first:
+      213: -7574574853554715823
+    second: ys2 ruin5_73
+  - first:
+      213: 6835153993700907678
+    second: ys2 ruin5_74
+  - first:
+      213: 8016184112618951172
+    second: ys2 ruin5_75
+  - first:
+      213: 5994945317621377245
+    second: ys2 ruin5_76
+  - first:
+      213: -4208653622097218247
+    second: ys2 ruin5_77
+  - first:
+      213: -9093196259607823759
+    second: ys2 ruin5_78
+  - first:
+      213: 5521150332403254553
+    second: ys2 ruin5_79
+  - first:
+      213: 3380744169751065443
+    second: ys2 ruin5_80
+  - first:
+      213: 7966703340022179850
+    second: ys2 ruin5_81
+  - first:
+      213: -3274655906461786100
+    second: ys2 ruin5_82
+  - first:
+      213: 3447487586443541223
+    second: ys2 ruin5_83
+  - first:
+      213: 6713151351029385810
+    second: ys2 ruin5_84
+  - first:
+      213: -45915032375291431
+    second: ys2 ruin5_85
+  - first:
+      213: 1389625754567263304
+    second: ys2 ruin5_86
+  - first:
+      213: 4427364891611741770
+    second: ys2 ruin5_87
+  - first:
+      213: 1889692308465956696
+    second: ys2 ruin5_88
+  - first:
+      213: -1051409051675204764
+    second: ys2 ruin5_89
+  - first:
+      213: -1114528534376088988
+    second: ys2 ruin5_90
+  - first:
+      213: 2989652046330732066
+    second: ys2 ruin5_91
+  - first:
+      213: 7699886485607497106
+    second: ys2 ruin5_92
+  - first:
+      213: 4267410016551773339
+    second: ys2 ruin5_93
+  - first:
+      213: 1896597244631931633
+    second: ys2 ruin5_94
+  - first:
+      213: 6395330187500689805
+    second: ys2 ruin5_95
+  - first:
+      213: -8504323336540771706
+    second: ys2 ruin5_96
+  - first:
+      213: 4016243710594248201
+    second: ys2 ruin5_97
+  - first:
+      213: -5636159938643196162
+    second: ys2 ruin5_98
+  - first:
+      213: -3396943459844990785
+    second: ys2 ruin5_99
+  - first:
+      213: 1819730413197319541
+    second: ys2 ruin5_100
+  - first:
+      213: -7914579409759181855
+    second: ys2 ruin5_101
+  - first:
+      213: 1911521727315611004
+    second: ys2 ruin5_102
+  - first:
+      213: -5641550137378254681
+    second: ys2 ruin5_103
+  - first:
+      213: -7201318184059290070
+    second: ys2 ruin5_104
+  - first:
+      213: -5481263982024722021
+    second: ys2 ruin5_105
+  - first:
+      213: -1244185520122279995
+    second: ys2 ruin5_106
+  - first:
+      213: -7637910098968312779
+    second: ys2 ruin5_107
+  - first:
+      213: -4479468554205940014
+    second: ys2 ruin5_108
+  - first:
+      213: -7394549352280369293
+    second: ys2 ruin5_109
+  - first:
+      213: 2349537395398230235
+    second: ys2 ruin5_110
+  - first:
+      213: 6416573320421118444
+    second: ys2 ruin5_111
+  - first:
+      213: -2063462384323340725
+    second: ys2 ruin5_112
+  - first:
+      213: 6012069509832371046
+    second: ys2 ruin5_113
+  - first:
+      213: -7450719818799580244
+    second: ys2 ruin5_114
+  - first:
+      213: -2083187284599346491
+    second: ys2 ruin5_115
+  - first:
+      213: 9011318763933022355
+    second: ys2 ruin5_116
+  - first:
+      213: -6978361924129264533
+    second: ys2 ruin5_117
+  - first:
+      213: 5515600441336787754
+    second: ys2 ruin5_118
+  - first:
+      213: -3325645521070550554
+    second: ys2 ruin5_119
+  - first:
+      213: 5560533124673840736
+    second: ys2 ruin5_120
+  - first:
+      213: -4059778158226733481
+    second: ys2 ruin5_121
+  - first:
+      213: -4061143793488663540
+    second: ys2 ruin5_122
+  - first:
+      213: 4959314035451578511
+    second: ys2 ruin5_123
+  - first:
+      213: 7067503188734386090
+    second: ys2 ruin5_124
+  - first:
+      213: -4046516647389617055
+    second: ys2 ruin5_125
+  - first:
+      213: 4135689294633186004
+    second: ys2 ruin5_126
+  - first:
+      213: -747497712159451665
+    second: ys2 ruin5_127
+  - first:
+      213: 5465574678742005509
+    second: ys2 ruin5_128
+  - first:
+      213: -2705022318045397117
+    second: ys2 ruin5_129
+  - first:
+      213: 55449329582136056
+    second: ys2 ruin5_130
+  - first:
+      213: -5808987799949327357
+    second: ys2 ruin5_131
+  - first:
+      213: -6920700662402263432
+    second: ys2 ruin5_132
+  - first:
+      213: 902819430402487525
+    second: ys2 ruin5_133
+  - first:
+      213: 92328362074916556
+    second: ys2 ruin5_134
+  - first:
+      213: 6458277327817681945
+    second: ys2 ruin5_135
+  - first:
+      213: -2740502337658431855
+    second: ys2 ruin5_136
+  - first:
+      213: -194976024061993383
+    second: ys2 ruin5_137
+  - first:
+      213: 1561481244903149609
+    second: ys2 ruin5_138
+  - first:
+      213: -4328271366302504123
+    second: ys2 ruin5_139
+  - first:
+      213: -4501909376250127405
+    second: ys2 ruin5_140
+  - first:
+      213: 1697267725371455598
+    second: ys2 ruin5_141
+  - first:
+      213: 1879027791462913210
+    second: ys2 ruin5_142
+  - first:
+      213: -2280702034485214543
+    second: ys2 ruin5_143
+  - first:
+      213: 3875395557730847599
+    second: ys2 ruin5_144
+  - first:
+      213: 7222315270242168278
+    second: ys2 ruin5_145
+  - first:
+      213: 8268249063652279023
+    second: ys2 ruin5_146
+  - first:
+      213: 7975223114918418500
+    second: ys2 ruin5_147
+  - first:
+      213: 2585039960012050613
+    second: ys2 ruin5_148
+  - first:
+      213: -6293685960161756457
+    second: ys2 ruin5_149
+  - first:
+      213: 1632421298635410338
+    second: ys2 ruin5_150
+  - first:
+      213: -7856234326761829364
+    second: ys2 ruin5_151
+  - first:
+      213: -8272518842651625793
+    second: ys2 ruin5_152
+  - first:
+      213: 8118999122706479838
+    second: ys2 ruin5_153
+  - first:
+      213: -493808527459232196
+    second: ys2 ruin5_154
+  - first:
+      213: -3899534449830557324
+    second: ys2 ruin5_155
+  - first:
+      213: 7806861393069326237
+    second: ys2 ruin5_156
+  - first:
+      213: 1093131517113077690
+    second: ys2 ruin5_157
+  - first:
+      213: -5638825462607839131
+    second: ys2 ruin5_158
+  - first:
+      213: -6781187848398986389
+    second: ys2 ruin5_159
+  - first:
+      213: -7827593072946848861
+    second: ys2 ruin5_160
+  - first:
+      213: -602955343606095870
+    second: ys2 ruin5_161
+  - first:
+      213: 4114404806788433252
+    second: ys2 ruin5_162
+  - first:
+      213: -5361392010537535475
+    second: ys2 ruin5_163
+  - first:
+      213: -2600174097649414147
+    second: ys2 ruin5_164
+  - first:
+      213: 6918028992009586127
+    second: ys2 ruin5_165
+  - first:
+      213: 7354347160813002401
+    second: ys2 ruin5_166
+  - first:
+      213: -4487877311339721829
+    second: ys2 ruin5_167
+  - first:
+      213: 8143795059791076424
+    second: ys2 ruin5_168
+  - first:
+      213: -2300691080550583349
+    second: ys2 ruin5_169
+  - first:
+      213: -7648185618941129138
+    second: ys2 ruin5_170
+  - first:
+      213: -877968907671192379
+    second: ys2 ruin5_171
+  - first:
+      213: -7729348756803841677
+    second: ys2 ruin5_172
+  - first:
+      213: 7396851007735620300
+    second: ys2 ruin5_173
+  - first:
+      213: 7992140612644710652
+    second: ys2 ruin5_174
+  - first:
+      213: -1035734153091300216
+    second: ys2 ruin5_175
+  - first:
+      213: -6197068376222528838
+    second: ys2 ruin5_176
+  - first:
+      213: -1947373204321109906
+    second: ys2 ruin5_177
+  - first:
+      213: 1210873388362073740
+    second: ys2 ruin5_178
+  - first:
+      213: -1413168911861453645
+    second: ys2 ruin5_179
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ys2 ruin5_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7ffaa3dffbdd020800000000000000
+      internalID: 2368260073398990847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf0b903b857293e0800000000000000
+      internalID: -2048445639823781939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d9df43f300645c0800000000000000
+      internalID: -4231694528396026479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2382da2ff35240800000000000000
+      internalID: 4779444188955749231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d253b5b4fcde370800000000000000
+      internalID: 8353560806401846583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa7cc89f2cd14720800000000000000
+      internalID: 2828784137950493438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f15986d095cde190800000000000000
+      internalID: -7931466142864289288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dc93f46b62a4ea0800000000000000
+      internalID: -5887850998378410634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f80e1f3979b470800000000000000
+      internalID: 8410887091084915926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5982ae88d1a1a80800000000000000
+      internalID: -8495445273199733311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de569ac86fc249510800000000000000
+      internalID: 1554917208783152621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa84ea6fee6982510800000000000000
+      internalID: 1524634426949912751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13167bf691e1a020800000000000000
+      internalID: 2351408519044272923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9abe2778b8a5d40800000000000000
+      internalID: 5573920902689302973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc4625f1c14cd750800000000000000
+      internalID: 6331007477473496254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42832dd80b022330800000000000000
+      internalID: 3684519577840222795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_16
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3bad14c0d51b90800000000000000
+      internalID: -7271676482589868078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e77cd3268b8aac0800000000000000
+      internalID: -3843619549877928421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1d86fcb2ff5c80800000000000000
+      internalID: -8331673892207912290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3470ad9eba651140800000000000000
+      internalID: 4689771953897108541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee10288575c067f30800000000000000
+      internalID: 4572856040927920622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc5279d48bdf0bf0800000000000000
+      internalID: -355824481908663096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da440821d70894a0800000000000000
+      internalID: -6586505860128421163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b99f749b5939480800000000000000
+      internalID: -8893600216117568695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77adf503662e2cfc0800000000000000
+      internalID: -3475967033850471817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104e3912b67943f60800000000000000
+      internalID: 8013196123379590145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905bb711dd4e589e0800000000000000
+      internalID: -1619636852837599991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fe0da713146f370800000000000000
+      internalID: 8355937839402250110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b625efa5e7aae80800000000000000
+      internalID: -8166576045004002491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0c4100c18d8910800000000000000
+      internalID: 1841270484319865799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_30
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b264e0df03cf2b0800000000000000
+      internalID: -5549506777402954923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_31
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bcc72bd4b992350800000000000000
+      internalID: 5992491537202465630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_32
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131de5d84f2196a0800000000000000
+      internalID: -6444317601917234403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_33
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b40f77ed9343a60800000000000000
+      internalID: 7652805294467074919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_34
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57658ddab5d7f8290800000000000000
+      internalID: -7885946589790316939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_35
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ccd0f38f4b2cd70800000000000000
+      internalID: 9062004378525617173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92eea4e98aa5b50800000000000000
+      internalID: 6582759203170822595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf5883dd84cd0220800000000000000
+      internalID: 2453833485405151177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369b0b512417262d0800000000000000
+      internalID: -3286940249381357213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0571365e7bd12fa40800000000000000
+      internalID: 5400411578835343184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b1e1ddbfb4a51c0800000000000000
+      internalID: -4514212131366888652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09309f54265a5d1b0800000000000000
+      internalID: -5632413917457611888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4c0679016f2ea0800000000000000
+      internalID: -5895386693941572124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_43
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02da2f7275c33f050800000000000000
+      internalID: 5833072287404961056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cde64394a0d647e0800000000000000
+      internalID: -1781507197314339386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_45
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976c49c575d3c3200800000000000000
+      internalID: 161071132103198329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe254f9d9391ab0800000000000000
+      internalID: -5036931099967426753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_47
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe8f8cccc04929e0800000000000000
+      internalID: -1645712940477739268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_48
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5250a7b66756b20800000000000000
+      internalID: 3127035720259413496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7065cdac7e58de490800000000000000
+      internalID: -7715363356028414457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_50
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d48b86d3699f60800000000000000
+      internalID: 8041568382761620148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_51
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c7e2cb3c9f17400800000000000000
+      internalID: 320311667591117907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_52
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe59d5ab8a54f090800000000000000
+      internalID: -8001671082101088578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_53
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0151eb50533ea90800000000000000
+      internalID: -7285921473375170346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ca6d1464851f590800000000000000
+      internalID: -7642230033895478142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ba12681d099520800000000000000
+      internalID: 2709211049216357144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f680c548a62ab7e0800000000000000
+      internalID: -1749043001113409799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d40c352317eb49d0800000000000000
+      internalID: -2788881474810805033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc4e0f4b9e81d810800000000000000
+      internalID: 1788367324740209909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d72b40addd8c8f0800000000000000
+      internalID: -519921828509876917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c46aac4b11c3e40800000000000000
+      internalID: 5637400301752699946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0d9d1ac1bf36160800000000000000
+      internalID: 7017728744766427301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be360a919908c80800000000000000
+      internalID: -8322483776036541547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_63
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0dd6c85d08c0220800000000000000
+      internalID: 2453477551682474221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_64
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc1b25af4ce1eb80800000000000000
+      internalID: -8367146805860033293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_65
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc933da6ec14e910800000000000000
+      internalID: 1865647922712124664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_66
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07980471a196fc750800000000000000
+      internalID: 6327391562259007856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_67
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d82f2dec9f0ff6b0800000000000000
+      internalID: -5260468673076844329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_68
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856a1a3086e2b4ae0800000000000000
+      internalID: -1564105421308713384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_69
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4b7bd161ba18bd0800000000000000
+      internalID: -2629632595931450168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_70
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68035d993c4aaf010800000000000000
+      internalID: 1223471408790974598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_71
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e8ee61d6a0bad0800000000000000
+      internalID: -2688465559101054075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fbf6dc3815c31f0800000000000000
+      internalID: -1063885785437061351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153c3417d44b1e690800000000000000
+      internalID: -7574574853554715823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_74
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a92a3d7585bde50800000000000000
+      internalID: 6835153993700907678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_75
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40258c69af43f3f60800000000000000
+      internalID: 8016184112618951172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8a6b8f003523350800000000000000
+      internalID: 5994945317621377245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_77
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935fb3044dbd795c0800000000000000
+      internalID: -4208653622097218247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_78
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a3a210e2a7ec180800000000000000
+      internalID: -9093196259607823759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9150d6a99f01f9c40800000000000000
+      internalID: 5521150332403254553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_80
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3633c7219e0daee20800000000000000
+      internalID: 3380744169751065443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_81
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08a0f47a7a6f8e60800000000000000
+      internalID: 7966703340022179850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_82
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00e5bd8dc51e82d0800000000000000
+      internalID: -3274655906461786100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_83
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea398db1bfe7df20800000000000000
+      internalID: 3447487586443541223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_84
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a4a810697e92d50800000000000000
+      internalID: 6713151351029385810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_85
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d19b657580ec5ff0800000000000000
+      internalID: -45915032375291431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_86
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84447bfd241f84310800000000000000
+      internalID: 1389625754567263304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_87
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ebd8769e8217d30800000000000000
+      internalID: 4427364891611741770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_88
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857b6ec7429893a10800000000000000
+      internalID: 1889692308465956696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_89
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e441c905a861f0800000000000000
+      internalID: -1051409051675204764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46af978f3366880f0800000000000000
+      internalID: -1114528534376088988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e109f32b06d7920800000000000000
+      internalID: 2989652046330732066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_92
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d377186fd7bda60800000000000000
+      internalID: 7699886485607497106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b942383ecc2e83b30800000000000000
+      internalID: 4267410016551773339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_94
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa55483521125a10800000000000000
+      internalID: 1896597244631931633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_95
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d899f4febe6c0c850800000000000000
+      internalID: 6395330187500689805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_96
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a2c66bbf29af980800000000000000
+      internalID: -8504323336540771706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_97
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eed5530609cb730800000000000000
+      internalID: 4016243710594248201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_98
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef682efb56658c1b0800000000000000
+      internalID: -5636159938643196162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_99
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb85ad9cbe1abd0d0800000000000000
+      internalID: -3396943459844990785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_100
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd9916b2bf04910800000000000000
+      internalID: 1819730413197319541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_101
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3eea6c5f3c92290800000000000000
+      internalID: -7914579409759181855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_102
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d861122e6178a10800000000000000
+      internalID: 1911521727315611004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_103
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0530f4a0035b1b0800000000000000
+      internalID: -5641550137378254681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_104
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb59c0447cf0c90800000000000000
+      internalID: -7201318184059290070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_105
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99f5470373aee3b0800000000000000
+      internalID: -5481263982024722021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_106
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c74d668cd3cbbee0800000000000000
+      internalID: -1244185520122279995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_107
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53400ac7b31b00690800000000000000
+      internalID: -7637910098968312779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6b50c451bb5d1c0800000000000000
+      internalID: -4479468554205940014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_109
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377db37ca88416990800000000000000
+      internalID: -7394549352280369293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_110
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0453f00db3b9020800000000000000
+      internalID: 2349537395398230235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce113fe307f3c0950800000000000000
+      internalID: 6416573320421118444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_112
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46d607e4eb1d53e0800000000000000
+      internalID: -2063462384323340725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_113
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66be38aad592f6350800000000000000
+      internalID: 6012069509832371046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_114
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabfc77ecc9b99890800000000000000
+      internalID: -7450719818799580244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_115
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca68dca3380713e0800000000000000
+      internalID: -2083187284599346491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_116
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3983a0afba2ae0d70800000000000000
+      internalID: 9011318763933022355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_117
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce92e8dc0e72f90800000000000000
+      internalID: -6978361924129264533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_118
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23fdd4e0695b8c40800000000000000
+      internalID: 5515600441336787754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_119
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e198b3c40fe8d1d0800000000000000
+      internalID: -3325645521070550554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_120
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0662af97a6bfa2d40800000000000000
+      internalID: 5560533124673840736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_121
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75681045645c8a7c0800000000000000
+      internalID: -4059778158226733481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_122
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c63579c3be3a7c0800000000000000
+      internalID: -4061143793488663540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_123
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8843b4f6d503d440800000000000000
+      internalID: 4959314035451578511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_124
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf147574b0d41260800000000000000
+      internalID: 7067503188734386090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_125
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16423ae6c82e7d7c0800000000000000
+      internalID: -4046516647389617055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_126
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23ffb608be46930800000000000000
+      internalID: 4135689294633186004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_127
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5915c8aca50a5f0800000000000000
+      internalID: -747497712159451665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_128
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50779c3663f99db40800000000000000
+      internalID: 5465574678742005509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_129
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f76679884d57ad0800000000000000
+      internalID: -2705022318045397117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_130
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fad6c81fdef4c000800000000000000
+      internalID: 55449329582136056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_131
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304417f8f54526fa0800000000000000
+      internalID: -5808987799949327357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_132
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876d3bc3a6bb4ff90800000000000000
+      internalID: -6920700662402263432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_133
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4f5751d75778c00800000000000000
+      internalID: 902819430402487525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_134
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc64b28f724084100800000000000000
+      internalID: 92328362074916556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_135
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c2881230960a950800000000000000
+      internalID: 6458277327817681945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_136
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196ddb9c4a7c7f9d0800000000000000
+      internalID: -2740502337658431855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_137
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e1112d65e4b4df0800000000000000
+      internalID: -194976024061993383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_138
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92013ed4bee7ba510800000000000000
+      internalID: 1561481244903149609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_139
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b6b00ef14eee3c0800000000000000
+      internalID: -4328271366302504123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_140
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db5c9146410681c0800000000000000
+      internalID: -4501909376250127405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_141
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683083f008ed8710800000000000000
+      internalID: 1697267725371455598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_142
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4db3122d5a31a10800000000000000
+      internalID: 1879027791462913210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_143
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b28ff355915950e0800000000000000
+      internalID: -2280702034485214543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_144
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b8cae1abb28c530800000000000000
+      internalID: 3875395557730847599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_145
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dde9aa0971da3460800000000000000
+      internalID: 7222315270242168278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_146
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2437167b8beb270800000000000000
+      internalID: 8268249063652279023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_147
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44852312b2fadae60800000000000000
+      internalID: 7975223114918418500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_148
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b055b2c528efd320800000000000000
+      internalID: 2585039960012050613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_149
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daf1b0f6f558a8a0800000000000000
+      internalID: -6293685960161756457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_150
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab02fca58687a610800000000000000
+      internalID: 1632421298635410338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_151
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c8121018c09f290800000000000000
+      internalID: -7856234326761829364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_152
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6360a31fb123d80800000000000000
+      internalID: -8272518842651625793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_153
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edab0a09faa7ca070800000000000000
+      internalID: 8118999122706479838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_154
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36dbb5b2c3a529f0800000000000000
+      internalID: -493808527459232196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_155
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4798378141212e9c0800000000000000
+      internalID: -3899534449830557324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_156
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fbb90131b875c60800000000000000
+      internalID: 7806861393069326237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_157
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf0f4ab2559b2f00800000000000000
+      internalID: 1093131517113077690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_158
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56005d61e1edeb1b0800000000000000
+      internalID: -5638825462607839131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_159
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63abf4849164e1a0800000000000000
+      internalID: -6781187848398986389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_160
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abd1b0929dce5390800000000000000
+      internalID: -7827593072946848861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_161
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2006fe04f4fd1a7f0800000000000000
+      internalID: -602955343606095870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_162
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465c8ca6f5d491930800000000000000
+      internalID: 4114404806788433252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_163
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08fa4e4f528895b0800000000000000
+      internalID: -5361392010537535475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_164
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff4f6b3f635aebd0800000000000000
+      internalID: -2600174097649414147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_165
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5c59607b6c10060800000000000000
+      internalID: 6918028992009586127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_166
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae592b17c3ef0660800000000000000
+      internalID: 7354347160813002401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_167
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b8f06fc5bd7b1c0800000000000000
+      internalID: -4487877311339721829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_168
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c9d6e8572940170800000000000000
+      internalID: 8143795059791076424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_169
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc37fddd6ad4210e0800000000000000
+      internalID: -2300691080550583349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_170
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e43ce83bf2cd590800000000000000
+      internalID: -7648185618941129138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_171
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccbb6e1ee3d0d3f0800000000000000
+      internalID: -877968907671192379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_172
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371999de146dbb490800000000000000
+      internalID: -7729348756803841677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_173
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc262942dc4e6a660800000000000000
+      internalID: 7396851007735620300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_174
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf829a30b89c9ee60800000000000000
+      internalID: 7992140612644710652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_175
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c04b764550a1f0800000000000000
+      internalID: -1035734153091300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_176
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba037235279ff9a0800000000000000
+      internalID: -6197068376222528838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_177
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e687357636a89f4e0800000000000000
+      internalID: -1947373204321109906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_178
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c868b456ee2edc010800000000000000
+      internalID: 1210873388362073740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys2 ruin5_179
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc6fd8ac5a636ce0800000000000000
+      internalID: -1413168911861453645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

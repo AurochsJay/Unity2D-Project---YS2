@@ -1,0 +1,5532 @@
+fileFormatVersion: 2
+guid: c80956919bed9654b8069da46c848700
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3972006606383432624
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_0
+  - first:
+      213: -5263058967839558018
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_1
+  - first:
+      213: 1155958009560935513
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_2
+  - first:
+      213: 8139379905929600568
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_3
+  - first:
+      213: -3555399783904275568
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_4
+  - first:
+      213: 3118132474530985361
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_5
+  - first:
+      213: -3867960749859129979
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_6
+  - first:
+      213: -266024151281423733
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_7
+  - first:
+      213: -590606229952566610
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_8
+  - first:
+      213: -1486259233790328912
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_9
+  - first:
+      213: 7705640589561892918
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_10
+  - first:
+      213: 6058150160666489635
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_11
+  - first:
+      213: 1990400895050646519
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_12
+  - first:
+      213: 8865733933791121161
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_13
+  - first:
+      213: -4075484158099616397
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_14
+  - first:
+      213: 592029562767228337
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_15
+  - first:
+      213: -2318402946611035556
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_16
+  - first:
+      213: 6934562729532604514
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_17
+  - first:
+      213: 217629825712329744
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_18
+  - first:
+      213: 8115668524150470912
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_19
+  - first:
+      213: 4563249928292025984
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_20
+  - first:
+      213: -6142354684989655036
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_21
+  - first:
+      213: 1113314564651591381
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_22
+  - first:
+      213: 2938719867725197534
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_23
+  - first:
+      213: 2426918025790654205
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_24
+  - first:
+      213: -5466823838850309718
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_25
+  - first:
+      213: -8119131587135489700
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_26
+  - first:
+      213: -1899004401065200610
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_27
+  - first:
+      213: 7756546500575632451
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_28
+  - first:
+      213: 740923174616576078
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_29
+  - first:
+      213: -668194428535021020
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_30
+  - first:
+      213: -5412807375613829114
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_31
+  - first:
+      213: 3358299236794652654
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_32
+  - first:
+      213: -7582092497108662417
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_33
+  - first:
+      213: -6261705663895600439
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_34
+  - first:
+      213: 6457502041337140298
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_35
+  - first:
+      213: 8152708444567501769
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_36
+  - first:
+      213: 7973652160760848785
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_37
+  - first:
+      213: 7774899185386627330
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_38
+  - first:
+      213: 408971073168998220
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_39
+  - first:
+      213: -3584967112183004296
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_40
+  - first:
+      213: 3517093438850740159
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_41
+  - first:
+      213: 2747964064956069971
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_42
+  - first:
+      213: 4519656938972952001
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_43
+  - first:
+      213: -2346879274032267685
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_44
+  - first:
+      213: -5723415342626461707
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_45
+  - first:
+      213: -4993764854832109972
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_46
+  - first:
+      213: 7285467004265484486
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_47
+  - first:
+      213: -2476281343339327050
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_48
+  - first:
+      213: 3965859901624961580
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_49
+  - first:
+      213: -7926772960334518692
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_50
+  - first:
+      213: -3903342171244321259
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_51
+  - first:
+      213: 3394180364357674040
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_52
+  - first:
+      213: -4751638001599416251
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_53
+  - first:
+      213: -986543730717948122
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_54
+  - first:
+      213: 667336449717655972
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_55
+  - first:
+      213: 526010160860714900
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_56
+  - first:
+      213: -5476190330302031401
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_57
+  - first:
+      213: -6693743031254006849
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_58
+  - first:
+      213: -7761721096511423962
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_59
+  - first:
+      213: -508617578297220890
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_60
+  - first:
+      213: -3953611737412128075
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_61
+  - first:
+      213: 8869212540450160278
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_62
+  - first:
+      213: 4956208300039658344
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_63
+  - first:
+      213: -3682329013451027987
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_64
+  - first:
+      213: 3774215500929801566
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_65
+  - first:
+      213: 8884786112899827585
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_66
+  - first:
+      213: -6928936667905013054
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_67
+  - first:
+      213: -1788655588193332748
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_68
+  - first:
+      213: -8008576435648717259
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_69
+  - first:
+      213: -2321906225806552805
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_70
+  - first:
+      213: -6072748154990863254
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_71
+  - first:
+      213: 3681312409315846193
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_72
+  - first:
+      213: 5983260608156348118
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_73
+  - first:
+      213: 5355000846487320823
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_74
+  - first:
+      213: -2627654255115825193
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_75
+  - first:
+      213: 3883405843467608792
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_76
+  - first:
+      213: -2391109525728795301
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_77
+  - first:
+      213: -2192302785312998778
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_78
+  - first:
+      213: -2851458138583833558
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_79
+  - first:
+      213: 6594708376341185401
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_80
+  - first:
+      213: -1836080387503710239
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_81
+  - first:
+      213: -4981636256423041064
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_82
+  - first:
+      213: -8174363696282922448
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_83
+  - first:
+      213: 7912440488256409982
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_84
+  - first:
+      213: 2436818381027778274
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_85
+  - first:
+      213: -7707041386268442877
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_86
+  - first:
+      213: -8999832150986525378
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_87
+  - first:
+      213: 1831470220352982829
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_88
+  - first:
+      213: -2747770853184015581
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_89
+  - first:
+      213: 5417443605194533344
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_90
+  - first:
+      213: 8359775625089905038
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_91
+  - first:
+      213: -5258131112798724134
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_92
+  - first:
+      213: 1129055300701812383
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_93
+  - first:
+      213: -8809912864494548638
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_94
+  - first:
+      213: 8858528088068974423
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_95
+  - first:
+      213: 2493935889095035072
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_96
+  - first:
+      213: -6627696123359638894
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_97
+  - first:
+      213: -8283932913756349700
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_98
+  - first:
+      213: 5566775725430701792
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_99
+  - first:
+      213: -1693194653316538715
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_100
+  - first:
+      213: -5635633015259331623
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_101
+  - first:
+      213: 6623451120724170994
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_102
+  - first:
+      213: 152595901397705529
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_103
+  - first:
+      213: -2033514490646699663
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_104
+  - first:
+      213: 3313238588199107187
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_105
+  - first:
+      213: -1030554527898284538
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_106
+  - first:
+      213: 3354943254998403216
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_107
+  - first:
+      213: -1658753704256007918
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_108
+  - first:
+      213: 6673546330220105217
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_109
+  - first:
+      213: 7651446798000489320
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_110
+  - first:
+      213: 8342754951214925961
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_111
+  - first:
+      213: 4147544933845989804
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_112
+  - first:
+      213: -5456039896938359382
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_113
+  - first:
+      213: 4572820232379970715
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_114
+  - first:
+      213: 1911256861387569117
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_115
+  - first:
+      213: 6565279763748131150
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_116
+  - first:
+      213: 739952101736807436
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_117
+  - first:
+      213: 1813651945593325148
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_118
+  - first:
+      213: -3314643076537736495
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_119
+  - first:
+      213: -6345790341864907408
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_120
+  - first:
+      213: -8538949940681008176
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_121
+  - first:
+      213: -7948055777296234533
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_122
+  - first:
+      213: 1646925074830992726
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_123
+  - first:
+      213: 1764439365615076820
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_124
+  - first:
+      213: -6458198899750037879
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_125
+  - first:
+      213: -4305906032086382436
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_126
+  - first:
+      213: -5035494491356484741
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_127
+  - first:
+      213: 1524499472977667756
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_128
+  - first:
+      213: -7365642619307647247
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_129
+  - first:
+      213: -2029347513038842342
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_130
+  - first:
+      213: 6171425917058024991
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_131
+  - first:
+      213: 4879324962020499629
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_132
+  - first:
+      213: 4992751247301427563
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_133
+  - first:
+      213: -7840691372642566844
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_134
+  - first:
+      213: 2216827536541083090
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_135
+  - first:
+      213: -6080003130658317499
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_136
+  - first:
+      213: 2152353435900077319
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_137
+  - first:
+      213: -191103115553959545
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_138
+  - first:
+      213: -6799908119131423079
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_139
+  - first:
+      213: -4150868503772729871
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_140
+  - first:
+      213: 7074510828710306961
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_141
+  - first:
+      213: -5277786532937180967
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_142
+  - first:
+      213: -4077696657900596
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_143
+  - first:
+      213: 2032942981488210924
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_144
+  - first:
+      213: -1609470860095385338
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_145
+  - first:
+      213: 8716956108825847472
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_146
+  - first:
+      213: -4346632956784327979
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_147
+  - first:
+      213: -5657794115254667706
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_148
+  - first:
+      213: -706333089084525516
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_149
+  - first:
+      213: -8247862068730276183
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_150
+  - first:
+      213: 670791399301735781
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_151
+  - first:
+      213: 8295439355416732269
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_152
+  - first:
+      213: -5152114560307844578
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_153
+  - first:
+      213: -8337204930213251416
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_154
+  - first:
+      213: 3792088160779177574
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_155
+  - first:
+      213: -4738816142666175715
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_156
+  - first:
+      213: 5600797163130243251
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_157
+  - first:
+      213: 6247059904589489769
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_158
+  - first:
+      213: -8782883581121579787
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_159
+  - first:
+      213: -4050636763632262600
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_160
+  - first:
+      213: -6670777357141637850
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_161
+  - first:
+      213: -6510507900134989943
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_162
+  - first:
+      213: 2160601012917629584
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_163
+  - first:
+      213: -8950330662703437560
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_164
+  - first:
+      213: -7898931957251660571
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_165
+  - first:
+      213: 7233926283906835793
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_166
+  - first:
+      213: -2926727154817939766
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_167
+  - first:
+      213: -7451074781988464898
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_168
+  - first:
+      213: 4694568516491418935
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_169
+  - first:
+      213: -2270606990206273313
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_170
+  - first:
+      213: -6959806802088234939
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_171
+  - first:
+      213: -5671496051805118009
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_172
+  - first:
+      213: 8866197921519104004
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_173
+  - first:
+      213: 8125701182139408480
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_174
+  - first:
+      213: -8285186371348073582
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_175
+  - first:
+      213: 853180508270438753
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_176
+  - first:
+      213: -2681347355436571758
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_177
+  - first:
+      213: 9182930628415135924
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_178
+  - first:
+      213: -9151863557624943860
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_179
+  - first:
+      213: -7535378125729234923
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_180
+  - first:
+      213: -5993996133108401490
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_181
+  - first:
+      213: 2565692581394358353
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_182
+  - first:
+      213: 4137237994470808270
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_183
+  - first:
+      213: 4593764726241275409
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_184
+  - first:
+      213: 8811231665653625171
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_185
+  - first:
+      213: 7148207448796827439
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_186
+  - first:
+      213: -8103049181832802688
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_187
+  - first:
+      213: -5624068168221170657
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_188
+  - first:
+      213: 5588343085193203376
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_189
+  - first:
+      213: -2359300855305568730
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_190
+  - first:
+      213: 3601441202596013993
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_191
+  - first:
+      213: -6078668380038319279
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_192
+  - first:
+      213: -8281046396065118974
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_193
+  - first:
+      213: 7168145099413252296
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_194
+  - first:
+      213: 1329547006896520033
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_195
+  - first:
+      213: 7550856305076276269
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_196
+  - first:
+      213: 8128468260887717742
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_197
+  - first:
+      213: 5198044152554603718
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_198
+  - first:
+      213: 7740677075328283338
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_199
+  - first:
+      213: 909084098603904916
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_200
+  - first:
+      213: -7789206583540127726
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_201
+  - first:
+      213: 590278363868697057
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_202
+  - first:
+      213: -2676268073056393102
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_203
+  - first:
+      213: 293314177804013159
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_204
+  - first:
+      213: -8362679422592978851
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_205
+  - first:
+      213: 8633279400884747158
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_206
+  - first:
+      213: 7593647676881471612
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_207
+  - first:
+      213: -2847670263272163746
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_208
+  - first:
+      213: 8515539566249175779
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_209
+  - first:
+      213: -906493314448471335
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_210
+  - first:
+      213: -1005249434729495387
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_211
+  - first:
+      213: 6956522770631397852
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_212
+  - first:
+      213: 1531840404515765084
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_213
+  - first:
+      213: -1033618316219797902
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_214
+  - first:
+      213: -1910353793475367259
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_215
+  - first:
+      213: 4929374337067034264
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_216
+  - first:
+      213: -2138351846534196404
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_217
+  - first:
+      213: -7646003373516383305
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_218
+  - first:
+      213: -3533683850156135307
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_219
+  - first:
+      213: 8547244757537219066
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_220
+  - first:
+      213: 6718462001513952515
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_221
+  - first:
+      213: 5416642698715660792
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_222
+  - first:
+      213: -1274212019549346745
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_223
+  - first:
+      213: 5695500988028168836
+    second: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_224
+  - first:
+      213: -4428448818719483999
+    second: Maptile
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b34df2c6f66f1730800000000000000
+      internalID: 3972006606383432624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e763dfde0cbd5f6b0800000000000000
+      internalID: -5263058967839558018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca5276fa9ca0010800000000000000
+      internalID: 1155958009560935513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ed2e076e2e4f070800000000000000
+      internalID: 8139379905929600568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09392eddbbea8aec0800000000000000
+      internalID: -3555399783904275568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195770b07f4d54b20800000000000000
+      internalID: 3118132474530985361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5853e7bf03e325ac0800000000000000
+      internalID: -3867960749859129979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a2231a174ee4cf0800000000000000
+      internalID: -266024151281423733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa6b8553cebdc7f0800000000000000
+      internalID: -590606229952566610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf78c5f91fbf5be0800000000000000
+      internalID: -1486259233790328912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6301bab3a4fefea60800000000000000
+      internalID: 7705640589561892918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3237082497fd21450800000000000000
+      internalID: 6058150160666489635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f30d1681135f9b10800000000000000
+      internalID: 1990400895050646519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f0fb44a0a690b70800000000000000
+      internalID: 8865733933791121161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d8db440c8f077c0800000000000000
+      internalID: -4075484158099616397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd354920cf473800800000000000000
+      internalID: 592029562767228337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c701bdc063dfd0800000000000000
+      internalID: -2318402946611035556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2604476cf048c3060800000000000000
+      internalID: 6934562729532604514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0141d166c2d250300800000000000000
+      internalID: 217629825712329744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009bec82685a0a070800000000000000
+      internalID: 8115668524150470912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0864c25f1abe35f30800000000000000
+      internalID: 4563249928292025984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4083cb425f8f1caa0800000000000000
+      internalID: -6142354684989655036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a35da2b9437f00800000000000000
+      internalID: 1113314564651591381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0b422562e68c820800000000000000
+      internalID: 2938719867725197534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df68e3a06152ea120800000000000000
+      internalID: 2426918025790654205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a0bbdea0f124b0800000000000000
+      internalID: -5466823838850309718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59b228a6dc035f80800000000000000
+      internalID: -8119131587135489700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14fa9ffe8165a5e0800000000000000
+      internalID: -1899004401065200610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c1c9242f9c4ab60800000000000000
+      internalID: 7756546500575632451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4030e4a3b9484a00800000000000000
+      internalID: 740923174616576078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422664e15b81ab6f0800000000000000
+      internalID: -668194428535021020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6006ce2ce58d1e4b0800000000000000
+      internalID: -5412807375613829114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee75c92ec531b9e20800000000000000
+      internalID: 3358299236794652654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670fa7ab0ff6c690800000000000000
+      internalID: -7582092497108662417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c28377efd3f919a0800000000000000
+      internalID: -6261705663895600439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44924ea4e7ad9950800000000000000
+      internalID: 6457502041337140298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf5cba22d342170800000000000000
+      internalID: 8152708444567501769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1912dacd46a18ae60800000000000000
+      internalID: 7973652160760848785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201a17dad9df5eb60800000000000000
+      internalID: 7774899185386627330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff5a33605fca500800000000000000
+      internalID: 408971073168998220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873cfdac763af3ec0800000000000000
+      internalID: -3584967112183004296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2e8829d93fc030800000000000000
+      internalID: 3517093438850740159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358be3bf1cab22620800000000000000
+      internalID: 2747964064956069971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5bc123a0c09be30800000000000000
+      internalID: 4519656938972952001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e749c0cb53e6fd0800000000000000
+      internalID: -2346879274032267685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7aab0e1185290b0800000000000000
+      internalID: -5723415342626461707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66e6e7925592bab0800000000000000
+      internalID: -4993764854832109972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d21ce3ad2b1560800000000000000
+      internalID: 7285467004265484486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b11556fc3b72add0800000000000000
+      internalID: -2476281343339327050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a42598190990730800000000000000
+      internalID: 3965859901624961580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56e61c8df17ef190800000000000000
+      internalID: -7926772960334518692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5162e2ed9fa84d9c0800000000000000
+      internalID: -3903342171244321259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8342529ee0d8a1f20800000000000000
+      internalID: 3394180364357674040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5487b6da96ace0eb0800000000000000
+      internalID: -4751638001599416251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6270b2f24b71f42f0800000000000000
+      internalID: -986543730717948122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9571f17fad24900800000000000000
+      internalID: 667336449717655972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49759525473cc4700800000000000000
+      internalID: 526010160860714900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d91bef98e9a004b0800000000000000
+      internalID: -5476190330302031401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3cb549d2c0b13a0800000000000000
+      internalID: -6693743031254006849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62af7cc39c3d84490800000000000000
+      internalID: -7761721096511423962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0231fd10701f8f0800000000000000
+      internalID: -508617578297220890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b23cbb6213f129c0800000000000000
+      internalID: -3953611737412128075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb8fe70d5c51b70800000000000000
+      internalID: 8869212540450160278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd4b4903df7c440800000000000000
+      internalID: 4956208300039658344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de90327a54db5ecc0800000000000000
+      internalID: -3682329013451027987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d91be5005b06430800000000000000
+      internalID: 3774215500929801566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187c7b465e91d4b70800000000000000
+      internalID: 8884786112899827585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cac756cfc877df90800000000000000
+      internalID: -6928936667905013054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f11830283b6d27e0800000000000000
+      internalID: -1788655588193332748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e189cb922dbd090800000000000000
+      internalID: -8008576435648717259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b115801f69ee6cfd0800000000000000
+      internalID: -2321906225806552805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c5c535ab349bba0800000000000000
+      internalID: -6072748154990863254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1382280c126a61330800000000000000
+      internalID: 3681312409315846193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de2fbb82dfc80350800000000000000
+      internalID: 5983260608156348118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8facad5e8c05a40800000000000000
+      internalID: 5355000846487320823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df074b7062b88bd0800000000000000
+      internalID: -2627654255115825193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2209a1a01a4e530800000000000000
+      internalID: 3883405843467608792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e1e31e8211ded0800000000000000
+      internalID: -2391109525728795301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab1596b306391e0800000000000000
+      internalID: -2192302785312998778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2460dd3ee59d68d0800000000000000
+      internalID: -2851458138583833558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9730c19f35c158b50800000000000000
+      internalID: 6594708376341185401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef97c39d9ee486e0800000000000000
+      internalID: -1836080387503710239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7a2b7f73caddab0800000000000000
+      internalID: -4981636256423041064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_83
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03215322783de8e80800000000000000
+      internalID: -8174363696282922448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7111f0c3b2aecd60800000000000000
+      internalID: 7912440488256409982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9d4f186151d120800000000000000
+      internalID: 2436818381027778274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_86
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f3c3e51b61b0590800000000000000
+      internalID: -7707041386268442877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35fe42875c2a1380800000000000000
+      internalID: -8999832150986525378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f88dc3670ba6910800000000000000
+      internalID: 1831470220352982829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3237bc3a7f4fdd9d0800000000000000
+      internalID: -2747770853184015581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9e45e8140ae2b40800000000000000
+      internalID: 5417443605194533344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81f37793a3e30470800000000000000
+      internalID: 8359775625089905038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd3379c9d5707b0800000000000000
+      internalID: -5258131112798724134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f967a1260d53baf00800000000000000
+      internalID: 1129055300701812383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26988a93de6ecb580800000000000000
+      internalID: -8809912864494548638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757eb229c50dfea70800000000000000
+      internalID: 8858528088068974423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c88b1a4a7d3c9220800000000000000
+      internalID: 2493935889095035072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a4ae7ad71b504a0800000000000000
+      internalID: -6627696123359638894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfad264b7ee890d80800000000000000
+      internalID: -8283932913756349700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee709a3709214d40800000000000000
+      internalID: 5566775725430701792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae1a790f609088e0800000000000000
+      internalID: -1693194653316538715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_101
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d30109a1a53ac1b0800000000000000
+      internalID: -5635633015259331623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f85de5a3b93beb50800000000000000
+      internalID: 6623451120724170994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933adf0f9212e1200800000000000000
+      internalID: 152595901397705529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e463485187c3e0800000000000000
+      internalID: -2033514490646699663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a79b111fcfafd20800000000000000
+      internalID: 3313238588199107187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec3f2fd1cb2b1f0800000000000000
+      internalID: -1030554527898284538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c5cb7d172f8e20800000000000000
+      internalID: 3354943254998403216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21115ff5b4ceaf8e0800000000000000
+      internalID: -1658753704256007918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e81e487033d9c50800000000000000
+      internalID: 6673546330220105217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8638e9cd2566f2a60800000000000000
+      internalID: 7651446798000489320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9880c432d6b67c370800000000000000
+      internalID: 8342754951214925961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca97cd7842a0f8930800000000000000
+      internalID: 4147544933845989804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa551aefe904844b0800000000000000
+      internalID: -5456039896938359382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b943ab406cbe57f30800000000000000
+      internalID: 4572820232379970715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7b8893df5268a10800000000000000
+      internalID: 1911256861387569117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_116
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e419449292f8c1b50800000000000000
+      internalID: 6565279763748131150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c73de1486d44a00800000000000000
+      internalID: 739952101736807436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_118
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56494bd5d26b2910800000000000000
+      internalID: 1813651945593325148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2a2c10fa50002d0800000000000000
+      internalID: -3314643076537736495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d99063e493fe7a0800000000000000
+      internalID: -6345790341864907408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db9dde254e8f7980800000000000000
+      internalID: -8538949940681008176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd744439165d2b190800000000000000
+      internalID: -7948055777296234533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6552cf831ad0bd610800000000000000
+      internalID: 1646925074830992726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5c33f214c8c7810800000000000000
+      internalID: 1764439365615076820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9869493515edf56a0800000000000000
+      internalID: -6458198899750037879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98874907495e34c0800000000000000
+      internalID: -4305906032086382436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ba24670745e1ab0800000000000000
+      internalID: -5035494491356484741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6aa1b813c182510800000000000000
+      internalID: 1524499472977667756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe90b5001bf7c990800000000000000
+      internalID: -7365642619307647247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a165f77503f46d3e0800000000000000
+      internalID: -2029347513038842342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1602e78c2f45a550800000000000000
+      internalID: 6171425917058024991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0ade08338d6b340800000000000000
+      internalID: 4879324962020499629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b614a438ec0d94540800000000000000
+      internalID: 4992751247301427563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d7b240db4403390800000000000000
+      internalID: -7840691372642566844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5e5d336e0c3ce10800000000000000
+      internalID: 2216827536541083090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b19dbad5d7f9ba0800000000000000
+      internalID: -6080003130658317499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7056ae9db02bedd10800000000000000
+      internalID: 2152353435900077319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7819fe99ab0195df0800000000000000
+      internalID: -191103115553959545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e70e5d79fd1a1a0800000000000000
+      internalID: -6799908119131423079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fde44b86172566c0800000000000000
+      internalID: -4150868503772729871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194aee8cd16bd2260800000000000000
+      internalID: 7074510828710306961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d850f77c1981c6b0800000000000000
+      internalID: -5277786532937180967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb34334b5381fff0800000000000000
+      internalID: -4077696657900596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce37a34eed6763c10800000000000000
+      internalID: 2032942981488210924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6011ca3b7c20aa9e0800000000000000
+      internalID: -1609470860095385338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b66c358569d8f870800000000000000
+      internalID: 8716956108825847472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d24dd1fa58ada3c0800000000000000
+      internalID: -4346632956784327979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64633fb7a3a7b71b0800000000000000
+      internalID: -5657794115254667706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434330c3cc99236f0800000000000000
+      internalID: -706333089084525516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6d9e4c525b98d80800000000000000
+      internalID: -8247862068730276183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56564c149312f4900800000000000000
+      internalID: 670791399301735781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62e86384225f1370800000000000000
+      internalID: 8295439355416732269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aabbeba130088b0800000000000000
+      internalID: -5152114560307844578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6f003d94c4c4c80800000000000000
+      internalID: -8337204930213251416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e0534471430a430800000000000000
+      internalID: 3792088160779177574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bee7853d75c3eb0800000000000000
+      internalID: -4738816142666175715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8c46778570abd40800000000000000
+      internalID: 5600797163130243251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96664a782e302b650800000000000000
+      internalID: 6247059904589489769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f433abaaedec1680800000000000000
+      internalID: -8782883581121579787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832af8d135f39c7c0800000000000000
+      internalID: -4050636763632262600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_161
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6258ad34653ac63a0800000000000000
+      internalID: -6670777357141637850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f54191f8706a5a0800000000000000
+      internalID: -6510507900134989943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_163
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092fd448c2ffbfd10800000000000000
+      internalID: 2160601012917629584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_164
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096643eea90ac380800000000000000
+      internalID: -8950330662703437560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4a8073c3b516290800000000000000
+      internalID: -7898931957251660571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e0a3d0a1146460800000000000000
+      internalID: 7233926283906835793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6469eb82d2267d0800000000000000
+      internalID: -2926727154817939766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d4b896f6789890800000000000000
+      internalID: -7451074781988464898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d143f5135762140800000000000000
+      internalID: 4694568516491418935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87c3cf8fe2d70e0800000000000000
+      internalID: -2270606990206273313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540fe20969cc96f90800000000000000
+      internalID: -6959806802088234939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_172
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c12027c36cca41b0800000000000000
+      internalID: -5671496051805118009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_173
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400f374d8001b0b70800000000000000
+      internalID: 8866197921519104004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06024606c2a44c070800000000000000
+      internalID: 8125701182139408480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_175
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293f3ed54ea150d80800000000000000
+      internalID: -8285186371348073582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_176
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1692fb4e62b17db00800000000000000
+      internalID: 853180508270438753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_177
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29325cf59c0f9cad0800000000000000
+      internalID: -2681347355436571758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_178
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02db7d0c2507f70800000000000000
+      internalID: 9182930628415135924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_179
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b2cee359c0ef080800000000000000
+      internalID: -9151863557624943860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51009afc485fc6790800000000000000
+      internalID: -7535378125729234923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa3205464c01dca0800000000000000
+      internalID: -5993996133108401490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150add42fcb2b9320800000000000000
+      internalID: 2565692581394358353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9ea3390c6a6930800000000000000
+      internalID: 4137237994470808270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ea4510ea450cf30800000000000000
+      internalID: 4593764726241275409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_185
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35135f81488c74a70800000000000000
+      internalID: 8811231665653625171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_186
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f06564dc8833360800000000000000
+      internalID: 7148207448796827439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_187
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e065f63bf2c8f80800000000000000
+      internalID: -8103049181832802688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_188
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1468907ccb43f1b0800000000000000
+      internalID: -5624068168221170657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_189
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be83fb7d68cd8d40800000000000000
+      internalID: 5588343085193203376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_190
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7c394f54124fd0800000000000000
+      internalID: -2359300855305568730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_191
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7e03841b3eaf130800000000000000
+      internalID: 3601441202596013993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_192
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153ba64805b34aba0800000000000000
+      internalID: -6078668380038319279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_193
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205820a7d20d31d80800000000000000
+      internalID: -8281046396065118974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_194
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ebfc4dfd5a7360800000000000000
+      internalID: 7168145099413252296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b304265ff737210800000000000000
+      internalID: 1329547006896520033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_196
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c0716adc70ac860800000000000000
+      internalID: 7550856305076276269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_197
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67ef3a11de1ec070800000000000000
+      internalID: 8128468260887717742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c440d7cd99232840800000000000000
+      internalID: 5198044152554603718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_199
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b3f3c9c86c6b60800000000000000
+      internalID: 7740677075328283338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_200
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fed30db27bd9c00800000000000000
+      internalID: 909084098603904916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218e4f991ed27e390800000000000000
+      internalID: -7789206583540127726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e11ef46b07113800800000000000000
+      internalID: 590278363868697057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_203
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27821c5fd5cfbdad0800000000000000
+      internalID: -2676268073056393102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e089fc0bf021400800000000000000
+      internalID: 293314177804013159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_205
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5070ed5f5bc1fb80800000000000000
+      internalID: -8362679422592978851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_206
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bbe60cfd19fc770800000000000000
+      internalID: 8633279400884747158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_207
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c788df9445e026960800000000000000
+      internalID: 7593647676881471612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_208
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e563830bbfa0b78d0800000000000000
+      internalID: -2847670263272163746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_209
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eae0154e164d2670800000000000000
+      internalID: 8515539566249175779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4801222d7b63f0800000000000000
+      internalID: -906493314448471335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4494417f2ac02f0800000000000000
+      internalID: -1005249434729495387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd196674a988a8060800000000000000
+      internalID: 6956522770631397852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bb0cb5bb0324510800000000000000
+      internalID: 1531840404515765084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_214
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ea1642e99d7a1f0800000000000000
+      internalID: -1033618316219797902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aea498a85f0d75e0800000000000000
+      internalID: -1910353793475367259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896aec5b7d7a86440800000000000000
+      internalID: 4929374337067034264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_217
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c435786335c0352e0800000000000000
+      internalID: -2138351846534196404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb1e1a2170f3e590800000000000000
+      internalID: -7646003373516383305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_219
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ca8e2b245d5fec0800000000000000
+      internalID: -3533683850156135307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_220
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1635d52d9ed9670800000000000000
+      internalID: 8547244757537219066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_221
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305f23d2895cc3d50800000000000000
+      internalID: 6718462001513952515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_222
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1092cf5d7cb2b40800000000000000
+      internalID: 5416642698715660792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_223
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7446a365be6115ee0800000000000000
+      internalID: -1274212019549346745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Ys V Lost Kefin Kingdom of Sand JPN - Foresta Village Exterior_224
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2e49f8fb7a0f40800000000000000
+      internalID: 5695500988028168836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maptile
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a71a36234dfa82c0800000000000000
+      internalID: -4428448818719483999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
